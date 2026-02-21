@@ -2,10 +2,5 @@
 Developed a full-stack AI-powered Resume Builder that generates smart resume content suggestions based on user input. The application allows users to create, edit, and download professional resumes with AI-assisted improvements.
 
 
-## 📸 Screenshots
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/faba1b85-9e51-4599-9f31-d397a8dd15da" />
 
-![Screenshot 1](Screenshot 2026-02-21 104626.png)
-
-![Screenshot 2](Screenshot 2026-02-21 104638.png)
-
-![Screenshot 3](Screenshot 2026-02-21 104706.png)
